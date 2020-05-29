@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,yCACI,qBAAuB,CACvB,sBACJ","file":"main.97e2a367.chunk.css","sourcesContent":[".react-stopwatch-timer__table:nth-last-child(1){\n    width: 300px !important;\n    height: 300px !important;\n}\n"]}
