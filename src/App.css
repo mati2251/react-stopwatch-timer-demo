@@ -1,0 +1,4 @@
+.react-stopwatch-timer__table:nth-last-child(1){
+    width: 300px !important;
+    height: 300px !important;
+}
